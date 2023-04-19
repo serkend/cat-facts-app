@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cat Facts App</string>
+    <string name="start_image">Start Image</string>
+    <string name="start">Start</string>
+    <string name="fact_num">Fact %1$d</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="check_internet">Check Internet Connection…</string>
+    <string name="empty_facts_list">Click on the next button to see random fact…</string>
+    <string name="add_to_favorite">Add to favourite</string>
+    <string name="empty">No facts hasn\'t yet been added…</string>
+</resources>

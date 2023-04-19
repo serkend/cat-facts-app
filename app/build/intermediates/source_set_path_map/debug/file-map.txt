@@ -1,0 +1,70 @@
+com.cat_info_about.random_facts.app-activity-1.6.1-0 C:\Users\user\.gradle\caches\transforms-3\04f5d95337db8744b826f989f295ce1a\transformed\activity-1.6.1\res
+com.cat_info_about.random_facts.app-transition-1.2.0-1 C:\Users\user\.gradle\caches\transforms-3\057c54dbdcfc6e906cef62068d5123cc\transformed\transition-1.2.0\res
+com.cat_info_about.random_facts.app-sqlite-2.2.0-2 C:\Users\user\.gradle\caches\transforms-3\0aee6293578de7594c6598853d364904\transformed\sqlite-2.2.0\res
+com.cat_info_about.random_facts.app-ui-tooling-1.3.3-3 C:\Users\user\.gradle\caches\transforms-3\0d7e982ca7a21729b26931bace4240f4\transformed\ui-tooling-1.3.3\res
+com.cat_info_about.random_facts.app-ui-geometry-1.3.3-4 C:\Users\user\.gradle\caches\transforms-3\0e24b68e5ca5b28cb280937657e8566f\transformed\ui-geometry-1.3.3\res
+com.cat_info_about.random_facts.app-material-1.3.1-5 C:\Users\user\.gradle\caches\transforms-3\0ef13e9ea31607ea2aafa67be26ab56d\transformed\material-1.3.1\res
+com.cat_info_about.random_facts.app-navigation-runtime-ktx-2.5.3-6 C:\Users\user\.gradle\caches\transforms-3\12f7d3c2c1ff2a31371e3a151d1c07a6\transformed\navigation-runtime-ktx-2.5.3\res
+com.cat_info_about.random_facts.app-coordinatorlayout-1.1.0-7 C:\Users\user\.gradle\caches\transforms-3\131737fbc8d27309efab44f836f0a263\transformed\coordinatorlayout-1.1.0\res
+com.cat_info_about.random_facts.app-runtime-saveable-1.3.3-8 C:\Users\user\.gradle\caches\transforms-3\1862758327c0a7f1d708be19c79a9513\transformed\runtime-saveable-1.3.3\res
+com.cat_info_about.random_facts.app-navigation-runtime-2.5.3-9 C:\Users\user\.gradle\caches\transforms-3\188cce54130f84bb87b6911083a4932a\transformed\navigation-runtime-2.5.3\res
+com.cat_info_about.random_facts.app-lifecycle-livedata-core-ktx-2.5.1-10 C:\Users\user\.gradle\caches\transforms-3\19d791e098b62d26ea8c3fa46274adfb\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.cat_info_about.random_facts.app-navigation-common-ktx-2.5.3-11 C:\Users\user\.gradle\caches\transforms-3\1e9bca7e9a7e0094cf3d05ea59706dc5\transformed\navigation-common-ktx-2.5.3\res
+com.cat_info_about.random_facts.app-ui-text-1.3.3-12 C:\Users\user\.gradle\caches\transforms-3\1ff6ebe08c5bd750dd0ed4fb3867a299\transformed\ui-text-1.3.3\res
+com.cat_info_about.random_facts.app-lifecycle-viewmodel-compose-2.5.1-13 C:\Users\user\.gradle\caches\transforms-3\22d14d81b7a15c8823a09df556156e92\transformed\lifecycle-viewmodel-compose-2.5.1\res
+com.cat_info_about.random_facts.app-hilt-navigation-compose-1.0.0-14 C:\Users\user\.gradle\caches\transforms-3\28ddc7db6e3ddb05cde92f114cb855b5\transformed\hilt-navigation-compose-1.0.0\res
+com.cat_info_about.random_facts.app-lifecycle-livedata-core-2.5.1-15 C:\Users\user\.gradle\caches\transforms-3\2a8c0edf0d16e588a6ab06c91dd5ccc5\transformed\lifecycle-livedata-core-2.5.1\res
+com.cat_info_about.random_facts.app-lifecycle-viewmodel-2.5.1-16 C:\Users\user\.gradle\caches\transforms-3\357f95fda5bf7e41034fcc7c58870f6a\transformed\lifecycle-viewmodel-2.5.1\res
+com.cat_info_about.random_facts.app-emoji2-1.2.0-17 C:\Users\user\.gradle\caches\transforms-3\3733bc266c180fc38e3172cde79b20bc\transformed\emoji2-1.2.0\res
+com.cat_info_about.random_facts.app-runtime-1.3.3-18 C:\Users\user\.gradle\caches\transforms-3\400f9cdfb44ff49191777d528d30b11b\transformed\runtime-1.3.3\res
+com.cat_info_about.random_facts.app-fragment-ktx-1.5.5-19 C:\Users\user\.gradle\caches\transforms-3\435045419e97af1aee5b883c7b48e026\transformed\fragment-ktx-1.5.5\res
+com.cat_info_about.random_facts.app-profileinstaller-1.2.0-20 C:\Users\user\.gradle\caches\transforms-3\46995a3ffa51d61ac9bf92f127c44d40\transformed\profileinstaller-1.2.0\res
+com.cat_info_about.random_facts.app-ui-tooling-preview-1.3.3-21 C:\Users\user\.gradle\caches\transforms-3\4db8d83e6bb4a5c64e2b96fc1af027e8\transformed\ui-tooling-preview-1.3.3\res
+com.cat_info_about.random_facts.app-startup-runtime-1.1.1-22 C:\Users\user\.gradle\caches\transforms-3\50f9c9b7b98b1f58bb22c2892af1563e\transformed\startup-runtime-1.1.1\res
+com.cat_info_about.random_facts.app-appcompat-1.5.0-23 C:\Users\user\.gradle\caches\transforms-3\55340d42a4c3975c3de4870a2a791298\transformed\appcompat-1.5.0\res
+com.cat_info_about.random_facts.app-ui-unit-1.3.3-24 C:\Users\user\.gradle\caches\transforms-3\56216e8a133a04ebd035d6dd20823ed5\transformed\ui-unit-1.3.3\res
+com.cat_info_about.random_facts.app-cardview-1.0.0-25 C:\Users\user\.gradle\caches\transforms-3\57a253111d46d0d262acce1774094497\transformed\cardview-1.0.0\res
+com.cat_info_about.random_facts.app-viewpager2-1.0.0-26 C:\Users\user\.gradle\caches\transforms-3\580b8001323662ae703e54481c0ac593\transformed\viewpager2-1.0.0\res
+com.cat_info_about.random_facts.app-animation-1.3.3-27 C:\Users\user\.gradle\caches\transforms-3\590f85f2272eaffaffe399b0fdae90ef\transformed\animation-1.3.3\res
+com.cat_info_about.random_facts.app-ui-graphics-1.3.3-28 C:\Users\user\.gradle\caches\transforms-3\5f17143a40bbe794a0bcf2760c3f827c\transformed\ui-graphics-1.3.3\res
+com.cat_info_about.random_facts.app-navigation-compose-2.5.3-29 C:\Users\user\.gradle\caches\transforms-3\60593c131cff303977b3b8695fb90480\transformed\navigation-compose-2.5.3\res
+com.cat_info_about.random_facts.app-foundation-1.2.0-30 C:\Users\user\.gradle\caches\transforms-3\6374611d220082a4501cf5cf07a8db73\transformed\foundation-1.2.0\res
+com.cat_info_about.random_facts.app-ui-tooling-data-1.3.3-31 C:\Users\user\.gradle\caches\transforms-3\677db8692d91501b2cb777dec22d5512\transformed\ui-tooling-data-1.3.3\res
+com.cat_info_about.random_facts.app-recyclerview-1.1.0-32 C:\Users\user\.gradle\caches\transforms-3\6788fa682eff36be16e519f06c7627c4\transformed\recyclerview-1.1.0\res
+com.cat_info_about.random_facts.app-room-runtime-2.4.3-33 C:\Users\user\.gradle\caches\transforms-3\6a5f994b2f66ba071efde1bb7de0d7b1\transformed\room-runtime-2.4.3\res
+com.cat_info_about.random_facts.app-material-icons-core-1.3.1-34 C:\Users\user\.gradle\caches\transforms-3\6dbdc632bd27c8df5c7978177039c5f6\transformed\material-icons-core-1.3.1\res
+com.cat_info_about.random_facts.app-sqlite-framework-2.2.0-35 C:\Users\user\.gradle\caches\transforms-3\740e307e0c69e76a4be0b444053581fb\transformed\sqlite-framework-2.2.0\res
+com.cat_info_about.random_facts.app-material-1.7.0-36 C:\Users\user\.gradle\caches\transforms-3\7d44758bc2aee815a0f428c60adf5df1\transformed\material-1.7.0\res
+com.cat_info_about.random_facts.app-ui-util-1.3.3-37 C:\Users\user\.gradle\caches\transforms-3\80396d03fe7636e223bc97e5bb582c10\transformed\ui-util-1.3.3\res
+com.cat_info_about.random_facts.app-ui-1.3.3-38 C:\Users\user\.gradle\caches\transforms-3\88a820b71b679c55965895cb78da9cb8\transformed\ui-1.3.3\res
+com.cat_info_about.random_facts.app-activity-ktx-1.6.1-39 C:\Users\user\.gradle\caches\transforms-3\8a35d9610b92fa1f10bddecd4448ad21\transformed\activity-ktx-1.6.1\res
+com.cat_info_about.random_facts.app-core-ktx-1.9.0-40 C:\Users\user\.gradle\caches\transforms-3\8cf4dd59b529672e540b2fc6b612adf9\transformed\core-ktx-1.9.0\res
+com.cat_info_about.random_facts.app-hilt-navigation-1.0.0-41 C:\Users\user\.gradle\caches\transforms-3\980a4f658ea07ad33bc405d3e23aceec\transformed\hilt-navigation-1.0.0\res
+com.cat_info_about.random_facts.app-savedstate-1.2.0-42 C:\Users\user\.gradle\caches\transforms-3\9a183981abcbc96855062a0e5fefbbe2\transformed\savedstate-1.2.0\res
+com.cat_info_about.random_facts.app-navigation-common-2.5.3-43 C:\Users\user\.gradle\caches\transforms-3\9c547933711fce49da0727f850276f2d\transformed\navigation-common-2.5.3\res
+com.cat_info_about.random_facts.app-constraintlayout-2.0.1-44 C:\Users\user\.gradle\caches\transforms-3\9c6cb876999ea5b4d2f72ef684c71b40\transformed\constraintlayout-2.0.1\res
+com.cat_info_about.random_facts.app-emoji2-views-helper-1.2.0-45 C:\Users\user\.gradle\caches\transforms-3\b0dd12bf8e68db9d5d7e3529d3296f6a\transformed\emoji2-views-helper-1.2.0\res
+com.cat_info_about.random_facts.app-customview-poolingcontainer-1.0.0-46 C:\Users\user\.gradle\caches\transforms-3\b198acae72fabf867c9f77258ba93aa2\transformed\customview-poolingcontainer-1.0.0\res
+com.cat_info_about.random_facts.app-lifecycle-viewmodel-savedstate-2.5.1-47 C:\Users\user\.gradle\caches\transforms-3\b2f4a74686d693f6420034eda313b95a\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.cat_info_about.random_facts.app-fragment-1.5.5-48 C:\Users\user\.gradle\caches\transforms-3\c5bf73cf41d962eb0964e6fd7c510a19\transformed\fragment-1.5.5\res
+com.cat_info_about.random_facts.app-lifecycle-runtime-ktx-2.5.1-49 C:\Users\user\.gradle\caches\transforms-3\c5fc43a570e7ec5af9616365083f4c01\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.cat_info_about.random_facts.app-lifecycle-runtime-2.5.1-50 C:\Users\user\.gradle\caches\transforms-3\c7b90e14aa03da8280c5ba87415be6ac\transformed\lifecycle-runtime-2.5.1\res
+com.cat_info_about.random_facts.app-annotation-experimental-1.3.0-51 C:\Users\user\.gradle\caches\transforms-3\cfffe74794ad11c4d3be0f5ce72ed91a\transformed\annotation-experimental-1.3.0\res
+com.cat_info_about.random_facts.app-drawerlayout-1.1.1-52 C:\Users\user\.gradle\caches\transforms-3\dcf3ad2b0d342f727b15da17ca4f74cf\transformed\drawerlayout-1.1.1\res
+com.cat_info_about.random_facts.app-savedstate-ktx-1.2.0-53 C:\Users\user\.gradle\caches\transforms-3\e0d81ff80c0e430d0f6098e4b7cfc459\transformed\savedstate-ktx-1.2.0\res
+com.cat_info_about.random_facts.app-material-ripple-1.3.1-54 C:\Users\user\.gradle\caches\transforms-3\e2e44f933afc7c27e74371f98a5ad77e\transformed\material-ripple-1.3.1\res
+com.cat_info_about.random_facts.app-appcompat-resources-1.5.0-55 C:\Users\user\.gradle\caches\transforms-3\e2f0bf3eacadd076743108912cb67f87\transformed\appcompat-resources-1.5.0\res
+com.cat_info_about.random_facts.app-lifecycle-process-2.4.1-56 C:\Users\user\.gradle\caches\transforms-3\eab0d0e915d23896407d8224a7506002\transformed\lifecycle-process-2.4.1\res
+com.cat_info_about.random_facts.app-lifecycle-viewmodel-ktx-2.5.1-57 C:\Users\user\.gradle\caches\transforms-3\f27afa48be9ed021d42a7e8aface70eb\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.cat_info_about.random_facts.app-room-ktx-2.4.3-58 C:\Users\user\.gradle\caches\transforms-3\f2ab0a818dfd134af1b5c188fe5fb354\transformed\room-ktx-2.4.3\res
+com.cat_info_about.random_facts.app-core-1.9.0-59 C:\Users\user\.gradle\caches\transforms-3\f4411f2eb2e11bdca0fd2dc07e0e380e\transformed\core-1.9.0\res
+com.cat_info_about.random_facts.app-foundation-layout-1.2.0-60 C:\Users\user\.gradle\caches\transforms-3\fa5ebedc2edb69a944b3a75313b90231\transformed\foundation-layout-1.2.0\res
+com.cat_info_about.random_facts.app-activity-compose-1.6.1-61 C:\Users\user\.gradle\caches\transforms-3\fa6087a346b6a42f60a0959f566a5276\transformed\activity-compose-1.6.1\res
+com.cat_info_about.random_facts.app-animation-core-1.3.3-62 C:\Users\user\.gradle\caches\transforms-3\ff62f2e5377ff34c6c9dc894a290882e\transformed\animation-core-1.3.3\res
+com.cat_info_about.random_facts.app-resValues-63 E:\Android\Projects\Work\Facts about cats\app\build\generated\res\resValues\debug
+com.cat_info_about.random_facts.app-rs-64 E:\Android\Projects\Work\Facts about cats\app\build\generated\res\rs\debug
+com.cat_info_about.random_facts.app-packageDebugResources-65 E:\Android\Projects\Work\Facts about cats\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cat_info_about.random_facts.app-packageDebugResources-66 E:\Android\Projects\Work\Facts about cats\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cat_info_about.random_facts.app-merged_res-67 E:\Android\Projects\Work\Facts about cats\app\build\intermediates\merged_res\debug
+com.cat_info_about.random_facts.app-debug-68 E:\Android\Projects\Work\Facts about cats\app\src\debug\res
+com.cat_info_about.random_facts.app-main-69 E:\Android\Projects\Work\Facts about cats\app\src\main\res

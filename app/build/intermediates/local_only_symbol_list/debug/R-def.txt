@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_favorite_24
+drawable baseline_home_24
+drawable baseline_menu_24
+drawable cat_img
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string add_to_favorite
+string app_name
+string back
+string check_internet
+string empty
+string empty_facts_list
+string fact_num
+string next
+string start
+string start_image
+style Theme.RandomFactsApp
+xml backup_rules
+xml data_extraction_rules

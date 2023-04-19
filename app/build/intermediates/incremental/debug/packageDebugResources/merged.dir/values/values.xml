@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_to_favorite">Add to favourite</string>
+    <string name="app_name">Cat Facts App</string>
+    <string name="back">Back</string>
+    <string name="check_internet">Check Internet Connection…</string>
+    <string name="empty">No facts hasn\'t yet been added…</string>
+    <string name="empty_facts_list">Click on the next button to see random fact…</string>
+    <string name="fact_num">Fact %1$d</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="start_image">Start Image</string>
+    <style name="Theme.RandomFactsApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
